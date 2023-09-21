@@ -1,0 +1,31 @@
+.main{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    /* background-color: black; */
+    transition: 1s;
+}
+
+.util{
+    height: 200px;
+    width: 300px;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: white;
+}
+
+#color{
+    margin: 5px;
+    margin-bottom: 10px;
+    font-size: 2rem;
+}
+
+#btn{
+    margin: 2px;
+}
+
